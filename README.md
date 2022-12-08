@@ -1,4 +1,4 @@
-# Ntf-Card Responsive 
+# Built NFT preview card component 
 
 #overview 
 - in this challange i created ntf-card with responsive design, i used dekstop-first technique.
