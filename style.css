@@ -49,7 +49,7 @@ body {
 .card-img {
     width: 302px;
     height: 302px;
-    background: url(/images/image-equilibrium.jpg);
+    background: url(images/image-equilibrium.jpg);
     background-size: cover;
 }
 
@@ -133,7 +133,7 @@ body {
     margin-top: 16px;
     width: 33px;
     height: 33px;
-    background: url(/images/image-avatar.png);
+    background: url(images/image-avatar.png);
     background-repeat: no-repeat;
     background-size: contain;
     border-radius: 50%;
