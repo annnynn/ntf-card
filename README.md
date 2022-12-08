@@ -1,4 +1,4 @@
-# Nttf-Card Responsive 
+# Ntf-Card Responsive 
 
 #overview 
 - in this challange i created ntf-card with responsive design, i used dekstop-first technique.
