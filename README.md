@@ -1,7 +1,7 @@
 # Built NFT preview card component 
 
 #overview 
-- in this challange i created ntf-card with responsive design, i used dekstop-first technique.
+- in this challange i created ntf-card with responsive design, only for mobile and dekstop resolution and in this case, i used dekstop-first technique.
 
 #my-process 
 - this project was not really hard, it took me 2 day to finish it. there was moment when i was founding solution on my own, without searching and this fact makes me happy. I enjoy with it. 
