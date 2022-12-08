@@ -2,6 +2,7 @@
 * {
     margin: 0;
     padding: 0;
+    max-height: 100vh;
 }
 
 :root {
@@ -48,7 +49,7 @@ body {
 .card-img {
     width: 302px;
     height: 302px;
-    background: url(images/image-equilibrium.jpg);
+    background: url(/images/image-equilibrium.jpg);
     background-size: cover;
 }
 
@@ -132,7 +133,7 @@ body {
     margin-top: 16px;
     width: 33px;
     height: 33px;
-    background: url(images/image-avatar.png);
+    background: url(/images/image-avatar.png);
     background-repeat: no-repeat;
     background-size: contain;
     border-radius: 50%;
@@ -165,6 +166,9 @@ p {
 
 @media only screen and (max-width: 375px) {
     body {
+        display: flex;
+        justify-content: center;
+        align-items: center;
         width: 376px;
         height: 667px;
         font-family: "Outfit";
